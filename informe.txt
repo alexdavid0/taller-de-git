@@ -1,1 +1,0 @@
-lo visto en la clase anterior fue concer los comandos de git y creamos carpetas con archivos
