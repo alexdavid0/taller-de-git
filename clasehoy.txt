@@ -1,0 +1,2 @@
+En la clase de hoy repasamos lo visto en la clase anterior con los comandos vistos y desarrollar un taller practico de conocimiento.
+Los sistemas de control de versiones son herramientas de software que ayudan a los equipos de software a gestionar los cambios en el código fuente a lo largo del tiempo.
